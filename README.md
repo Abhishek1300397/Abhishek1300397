@@ -8,7 +8,7 @@
 
 Senior Backend Developer with **7+ years of experience** (Aug 2018 – Present) at **Opticodes Technologies Private Limited**, specializing in building high-performance, scalable backend systems across GST, ERP, and API domains.
 
-I have designed and delivered production-grade APIs consumed by **2,000+ businesses**, processing over **10 lakh+ daily API hits** — with a strong focus on reliability, performance, and clean system design.
+I have designed and delivered production-grade APIs consumed by **2,000+ businesses**, processing over **1M+ daily API hits** — with a strong focus on reliability, performance, and clean system design.
 
 ---
 
