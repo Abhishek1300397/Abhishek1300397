@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Backend Developer with **6+ years of experience** (Aug 2018 – Present) at **Opticodes Technologies Private Limited**, specializing in building high-performance, scalable backend systems across GST, ERP, and API domains.
+Senior Backend Developer with **7+ years of experience** (Aug 2018 – Present) at **Opticodes Technologies Private Limited**, specializing in building high-performance, scalable backend systems across GST, ERP, and API domains.
 
 I have designed and delivered production-grade APIs consumed by **2,000+ businesses**, processing over **10 lakh+ daily API hits** — with a strong focus on reliability, performance, and clean system design.
 
@@ -46,8 +46,8 @@ I have designed and delivered production-grade APIs consumed by **2,000+ busines
 
 ---
 
-### 🔷 GST & E-Way Bill API Suite
-> Comprehensive suite of GST compliance APIs covering returns, reconciliation, and e-way bill lifecycle.
+### 🔷 GST API Suite
+> Comprehensive suite of GST compliance APIs covering returns.
 - Designed APIs for GSTR filing, e-way bill generation, cancellation, and extension
 - Handled complex GST business rules and validations at the API layer
 - Optimized for high-throughput concurrent usage
